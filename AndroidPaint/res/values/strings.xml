@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">AndroidPaint</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_paint">AndroidPaint</string>
+    <string name="kolor">Kolor</string>
+    <string name="rozmiar">Rozmiar</string>
+    <string name="czerwony">Czerwony</string>
+    <string name="niebieski">Niebieski</string>
+    <string name="zielony">Zielony</string>
+
+</resources>

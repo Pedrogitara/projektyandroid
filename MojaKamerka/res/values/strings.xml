@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Moja kamerka</string>
+    <string name="powitanie">Witaj w mojej aplikacji!!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="obraz_kamerki">To jest ogolny opis zawartosci</string>
+    <string name="przycisk_kamerki">Kamerka</string>
+
+</resources>

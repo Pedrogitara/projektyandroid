@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_kolor"
+        android:orderInCategory="1"
+        android:title="@string/kolor"/>
+    <item
+        android:id="@+id/menu_rozmiar"
+        android:orderInCategory="2"
+        android:title="@string/rozmiar"/>
+
+</menu>

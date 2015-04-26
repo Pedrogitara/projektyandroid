@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- przechowywanie łańcuchów znaków w jednym miejscu -->
+    <string name="app_name">ChatSMS</string>
+    
+    <!-- Layout -->
+    <string name="wpisz_numer">Wpisz numer. . .</string>
+    <string name="wiadomosc">Napisz wiadomość. . .</string>
+    <string name="wyslij">Wyślij</string>
+
+</resources>
